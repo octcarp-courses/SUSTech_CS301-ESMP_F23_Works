@@ -1,2 +1,18 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Drivers/ linguist-generated
+system_stm32f1xx.c linguist-generated
+
+sysmem.c syscalls.c linguist-generated
+
+stm32f1xx_hal_conf.h stm32f1xx_hal_msp.c linguist-generated
+
+gpio.h gpio.c linguist-generated
+
+usart.h usart.c linguist-generated
+
+lcd.c lcd.h linguist-vendored=true
+font.h font.c linguist-vendored=true
+
+pic.h linguist-generated

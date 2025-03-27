@@ -11,6 +11,7 @@
 *.ilk
 *.map
 *.exp
+*.list
 
 # Precompiled Headers
 *.gch
@@ -42,6 +43,13 @@
 *.idb
 *.pdb
 
+## build files
+Release/
+Debug/
+build/
+cmake-build-debug/
+CMakeLists_template.txt
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
@@ -50,3 +58,33 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+## Ide Settings ##
+.idea/
+.settings/
+.cproject
+.project
+.mxproject
+.vscode/
+
+
+.DS_Store
+Thumbs.db
+
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.crf
+*.trail
+*.dep
+*.log
+*.bak
+
+*~
+*.swp
+*.swo
+*.tmp
+
+*.cyclo
+

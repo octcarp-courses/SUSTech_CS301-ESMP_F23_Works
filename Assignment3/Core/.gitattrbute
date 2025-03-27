@@ -1,0 +1,19 @@
+myiic.h myiic.c linguist-vendored=true
+ctiic.h ctiic.c linguist-vendored=true
+
+spi.h spi.c linguist-vendored=true
+24l01.h 24l01.c linguist-vendored=true
+
+ft5206.h ft5206.c linguist-vendored=true
+gt9147.h gt9147.c linguist-vendored=true
+ott2001a.h ott2001a.c linguist-vendored=true
+touch.h touch.c linguist-vendored=true
+
+lcd.h lcd.c linguist-vendored=true
+key.h key.c linguist-vendored=true
+led.h led.c linguist-vendored=true
+
+delay.h delay.c linguist-vendored=true
+FONT.H linguist-vendored=true
+
+image.h linguist-generated
