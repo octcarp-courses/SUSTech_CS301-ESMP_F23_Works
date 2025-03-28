@@ -1,0 +1,20 @@
+**/Core/Src/image.c linguist-generated
+
+# Header and source have same name
+**/Core/**/24cxx.* linguist-vendored
+**/Core/**/24l01.* linguist-vendored
+**/Core/**/ctiic.* linguist-vendored
+**/Core/**/delay.* linguist-vendored
+**/Core/**/ft5206.* linguist-vendored
+**/Core/**/gt9147.* linguist-vendored
+**/Core/**/key.* linguist-vendored
+**/Core/**/lcd.* linguist-vendored
+**/Core/**/led.* linguist-vendored
+**/Core/**/myiic.* linguist-vendored
+**/Core/**/ott2001a.* linguist-vendored
+**/Core/**/spi.* linguist-vendored
+**/Core/**/sys.* linguist-vendored
+**/Core/**/touch.* linguist-vendored
+
+**/Core/Inc/FONT.H linguist-vendored
+

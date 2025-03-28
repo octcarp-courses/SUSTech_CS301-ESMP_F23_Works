@@ -1,0 +1,4 @@
+**/Core/Inc/pic.h linguist-generated
+
+**/Core/**/lcd.* linguist-vendored
+**/Core/**/font.* linguist-vendored
